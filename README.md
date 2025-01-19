@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm QUÁCH MẠNH THẮNG</h1>
 
 
+
+
 <p align="left">
+<p>Follow Me</p>
 <a href="https://codeforces.com/profile/22_gnaht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="22_gnaht" height="30" width="40" /></a>
 </p>
 
